@@ -7,7 +7,7 @@
 [Original version (youtube)](https://youtu.be/l-onY7wZDMI)  
 [Hardcore version (youtube)](https://youtu.be/BPrialP6tpY)
 
-##Architecture Actor`s model (Pytorch)
+## Architecture Actor`s model (Pytorch)
 ```
 Actor(
 (rnn): GRU(31, 128, num_layers=2, batch_first=True)
