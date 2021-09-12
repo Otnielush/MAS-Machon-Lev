@@ -5,5 +5,5 @@
 ![game view](multiw_animation.gif)
 -----
 ## Training results:
-![](results_eps-20000_Aug 30 13-29.png)
-![](results_eps-20000_Aug 31 12-58.png)
+![](results_eps-20000_Aug_30_13-29.png)
+![](results_eps-20000_Aug_31_12-58.png)
