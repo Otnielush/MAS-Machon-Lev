@@ -1,6 +1,6 @@
 ## BipedalWalker
-- [BipedalWalker A2C solo-RNN](BipedalWalker A2C solo-RNN.ipynb) - training solo model
-- [BipedalWalker A2C multy-RNN](BipedalWalker A2C multy-RNN.ipynb) - training multiagent version 
+- [BipedalWalker A2C solo-RNN](BipedalWalker_A2C_solo-RNN.ipynb) - training solo model
+- [BipedalWalker A2C multy-RNN](BipedalWalker_A2C_multy-RNN.ipynb) - training multiagent version 
 
 >[MADDPG version of multiwalker](https://github.com/Otnielush/MAS-Machon-Lev/tree/master/MADDPG%20Walker)
 
